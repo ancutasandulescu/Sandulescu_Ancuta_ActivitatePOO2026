@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Sandulescu_Ancuta_ActivitatePOO2026/Sandulescu_Ancuta_ActivitatePOO2026.vcxproj" />
+</Solution>
